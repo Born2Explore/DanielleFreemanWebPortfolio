@@ -1,0 +1,63 @@
+%!Adobe-FontList 1.14
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Apple-Chancery
+FamilyName:Apple Chancery
+StyleName:Chancery
+MenuName:Apple Chancery
+StyleBits:0
+WeightClass:0
+WidthClass:5
+AngleClass:1
+FullName:Apple Chancery
+WritingScript:Roman
+OutlineFileName:\Apple Chancery.ttf
+DataFormat:sfntData
+FileLength:335572
+FileModTime:1383658937
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:LaurenScript
+FamilyName:LaurenScript
+StyleName:Regular
+MenuName:LaurenScript
+StyleBits:0
+WeightClass:5
+WidthClass:5
+AngleClass:0
+FullName:LaurenScript Regular
+WritingScript:Roman
+OutlineFileName:\LaurenScript.ttf
+DataFormat:sfntData
+FileLength:29628
+FileModTime:827762400
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:217280
+FileModTime:1375179926
+DesignSize:110
+%EndFont
+
