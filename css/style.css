@@ -21,7 +21,7 @@ body h1,h2,h3,h4,h5,h6{
 }
 /*-- header --*/
 #home {
-    background: url(../images/header-bg.jpg) no-repeat center top;
+    background: url(../images/header-bg.jpg?raw=true) no-repeat center top;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -217,7 +217,7 @@ ul.social-icons{
     margin-right: 1%;
 }
 .social-icons li a{  
-    background: url(../images/social-icons2.png) no-repeat 3px 3px;
+    background: url(../images/social-icons2.png?raw=true) no-repeat 3px 3px;
     display: block;
     height: 32px;
     width: 32px;
